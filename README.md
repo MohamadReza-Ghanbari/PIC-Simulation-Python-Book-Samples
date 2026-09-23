@@ -33,7 +33,7 @@ The code provides a fully kinetic, 3D electromagnetic solver written from scratc
 The code includes real-time diagnostics, plotting 2D mid-plane slices of the macroscopic fields alongside a 3D scatter distribution of the macro-particles.
 
 ![3D EM-PIC Simulation Output at Step 10000](Figure_10000.png)
-*Figure: Simulation state at $t = 10000 \Delta t$. **(Left)** Mid-plane slice of the longitudinal electric field $E_x$ showing charge separation. **(Center)** Mid-plane slice of the magnetic field $B_z$ demonstrating field perturbation. **(Right)** 3D spatial distribution of electrons (blue) and ions (red).*
+*Figure: Simulation state at t = 10000 \dt. **(Left)** Mid-plane slice of the longitudinal electric field Ex showing charge separation. **(Center)** Mid-plane slice of the magnetic field Bz demonstrating field perturbation. **(Right)** 3D spatial distribution of electrons (blue) and ions (red).*
 
 ## ⚙️ Dependencies & Usage
 The code is designed to run in a standard scientific Python environment.
